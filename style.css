@@ -10,4 +10,7 @@
     background-image: url(img/banner.png);
     background-size: cover;
     padding: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
 }
