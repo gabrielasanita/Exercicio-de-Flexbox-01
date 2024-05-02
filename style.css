@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.banner{
+    height: 454px;
+    background-image: url(img/banner.png);
+    background-size: cover;
+    padding: 10px;
+}
